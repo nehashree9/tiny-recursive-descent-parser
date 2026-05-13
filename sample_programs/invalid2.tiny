@@ -1,0 +1,4 @@
+{ Missing END for IF statement }
+read a;
+if a = 0 then
+    write a

@@ -1,0 +1,4 @@
+{ Simple assignment and output }
+x := 10 + 2 * 5;
+y := x - 5;
+write y
